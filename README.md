@@ -1,4 +1,4 @@
-# alura-flix
+# AluraFlix
 
 - JUSTIFICATIVA:
 
